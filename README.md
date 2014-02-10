@@ -8,6 +8,8 @@ Perhaps someone else will find it useful.
 
 The plug-in makes use of Tipsy (http://onehackoranother.com) and jQuery.ScrollTo (http://flesler.blogspot.com/2007/10/jqueryscrollto.html).
 
+(http://johnpatrickgiven.com/)
+
 If you already source these plugins, you'll want to remove them from the calendar plugin. I simply included them, with comments, to make the calendar implementation simpler.
 
 # Implementation
